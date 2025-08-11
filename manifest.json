@@ -1,0 +1,11 @@
+{
+  "name": "Pitch Scorecard",
+  "organization": "Arturo Vargas",
+  "description": "Secure radar chart for monthly/person comparisons (0–5 scale).",
+  "logoUrl": "https://arturovargas1395.github.io/looker-secure-viz/icon.png",
+  "resources": [
+    { "type": "js",  "url": "https://arturovargas1395.github.io/looker-secure-viz/viz.js" },
+    { "type": "css", "url": "https://arturovargas1395.github.io/looker-secure-viz/viz.css" }
+  ],
+  "dsccVizVersion": "0.1"
+}
